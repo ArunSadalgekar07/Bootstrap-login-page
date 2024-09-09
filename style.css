@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 27px; 
+    width: auto;
+    height: 32.5rem;
+}
+
+img{
+    width: 120%;
+    height: 32.5rem;
+    border-top-left-radius: 30px ;
+    border-bottom-LEFT-radius: 30PX;
+}
+
+.login h1{
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+.form-row{
+    display: flex;
+    justify-content : center;
+}
+
+
+
+.inp{  
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
+}
+
+
+/* ICON STYLES */
+.fa-brands{
+    padding: 10px;
+    font-size: 18px;
+}
+
+
+/* HOVERING EFFECT */
+.fa-facebook:hover{
+    color: blue;
+}
+
+.fa-google:hover{
+    color:red;
+}
+
+
+.fa-twitter:hover{
+    color:lightseagreen
+}
+
+p{
+    padding-top: 20px;
+    color: grey;
+    font-size: 18px;
+}
+
+.typing{
+    text-align: center;
+}
