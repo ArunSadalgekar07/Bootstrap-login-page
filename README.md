@@ -1,9 +1,8 @@
 # Bootstrap Login Page
 
-This project is a responsive login page built using Bootstrap. It includes fields for username and password with options for social media login.
+This project is a login page built using Bootstrap. It includes fields for username and password with options for social media login.
 
 ## Features
-- Responsive design
 - Login form with social media login buttons
 - Bootstrap framework used for styling
 
